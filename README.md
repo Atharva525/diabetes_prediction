@@ -1,5 +1,4 @@
-# diabetes_prediction
-# Machine Learning Model with Logistic Regression & SVM
+# Machine Learning Model with Logistic Regression 
 
 This Jupyter Notebook implements a machine learning pipeline using Logistic Regression and Support Vector Machines (SVM). It includes:
 
